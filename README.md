@@ -21,7 +21,7 @@
 - コンテンツ（見出し・本文・画像）
 - コンポーネント（リスト・表組み・フォーム）
 - カード風の記事一覧を作る
-  - width/hegith
+  - width/height
   - Flexbox
   - border
   - border-radius
